@@ -1,0 +1,15 @@
+<svg width="112" height="112" viewBox="0 0 112 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M27 50H85V68H27V50Z" fill="white" stroke="#445BFD" stroke-width="2"/>
+<path d="M27 68V49.5352L56 30.2019L85 49.5352V68H27Z" fill="white" stroke="#445BFD" stroke-width="2"/>
+<path d="M35 27H65.5858L77 38.4142V81H35V27Z" fill="white" stroke="#445BFD" stroke-width="2"/>
+<rect x="40.5" y="28.5" width="1" height="4" fill="#9FC8FF" stroke="#445BFD"/>
+<rect x="40.5" y="35.5" width="1" height="1" fill="#9FC8FF" stroke="#445BFD"/>
+<rect x="72.5" y="77.5" width="1" height="3" fill="#9FC8FF" stroke="#445BFD"/>
+<rect x="72.5" y="74.5" width="1" height="1" fill="#9FC8FF" stroke="#445BFD"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56 61C62.6274 61 68 55.6274 68 49C68 42.3726 62.6274 37 56 37C49.3726 37 44 42.3726 44 49C44 55.6274 49.3726 61 56 61Z" fill="#1BD898"/>
+<rect width="2" height="8" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 54.8281 54.8995)" fill="white"/>
+<rect width="2" height="12" transform="matrix(0.707107 0.707107 0.707107 -0.707107 53.4141 53.4853)" fill="white"/>
+<path d="M55.361 69.9326L85 58.4594V86H27V58.496L54.6176 69.924L54.9876 70.0771L55.361 69.9326Z" fill="white" stroke="#445BFD" stroke-width="2"/>
+<rect x="73.5" y="81.5" width="1" height="3" fill="#9FC8FF" stroke="#445BFD"/>
+<rect x="73.5" y="78.5" width="1" height="1" fill="#9FC8FF" stroke="#445BFD"/>
+</svg>

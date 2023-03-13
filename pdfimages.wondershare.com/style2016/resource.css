@@ -1,0 +1,61 @@
+.art_banner {background-color: #eff0f2; background-repeat: no-repeat; background-position: center; background-size: auto 100%; padding:35px 0;}
+.art_banner .info {padding:0;}
+.art_banner .pic_txt {padding-bottom: 10px;}
+.art_banner .btnBox {padding: 20px 0 0 0;}
+
+.atr_nav {background-color: #f6f6f6; text-align: center; border-top: solid 5px #435bfd;}
+.atr_nav ul li {display: inline-block; padding:10px; position: relative; z-index: 1;}
+.atr_nav ul li:after {display: block; content: ''; width: 2px; height: 20px; background-color: #d7d6d8; position: absolute; z-index: 2; top: 50%; left: 0; margin: -10px 0 0 0;}
+.atr_nav ul li:first-child:after {display: none;}
+.atr_nav ul li a {display: block; padding: 10px 20px; font-size: 20px; line-height: 1.4em; color: #5a5b64; font-weight: bold;}
+.atr_nav ul li.curr a,
+.atr_nav ul li a:hover {color: #2c3db0; text-decoration: none;}
+@media (max-width: 979px){
+	.atr_nav ul li {padding: 10px 5px;}
+	.atr_nav ul li a {padding:5px 10px; font-size: 16px;}
+}
+@media (max-width: 767px){
+	.atr_nav ul li {display: block; padding: 0; margin: 0 -15px; border-bottom:solid 1px #d7d6d8;}
+	.atr_nav ul li:after {display: none;}
+	.atr_nav ul li a {padding:15px 10px;}
+}
+
+.how_beginers {padding: 60px 0;}
+.how_beginers .columnStyle {text-align: center; padding-top: 0;}
+.how_beginers .info {text-align: center; padding: 0 10%; font-size: 18px;}
+.how_beginers .slides_list {padding: 3%;}
+.how_beginers .item {margin: 5% auto; max-width: 320px; padding:0; box-shadow: 0 0 15px #ccc; box-shadow: 0 0 15px rgba(0,0,0,.2);}
+.how_beginers .item .pic {position: relative;z-index: 1; height: 200px; overflow: hidden;}
+.how_beginers .item .pic:after {display: block; content: ''; position: absolute;z-index: 2; top: -5px; right: -23px; width:0; height:0; border-left:solid 36px transparent;border-right:solid 36px transparent; border-bottom:solid 36px #435bfd; transform:rotate(45deg);}
+.how_beginers .item .pic .top {display: block;position: absolute;z-index: 3; color: #fff; top: -7px; right: -9px; width:40px; height:40px; transform:rotate(45deg); font-size: 14px; line-height:52px;}
+.how_beginers .item .info {text-align: left; padding:20px 20px 10px; min-height:300px;}
+.how_beginers .item .info ol {padding-left: 15px;}
+.how_beginers .item .info ol li {padding:8px 0 0 0; position: relative;z-index: 1; font-size: 16px; line-height: 1.4em;}
+.how_beginers .item .info ol li:first-child {padding-top: 0;}
+.how_beginers .item .info ol li:before {display: block; content: ''; position: absolute;z-index: 3; top: 12px; left: -31px; width: 6px; height: 6px; background: #979797; border-radius: 100px;}
+.how_beginers .item .info ol li:after {display: block; content: '';position: absolute;z-index: 2; top: 0; left:-29px; width: 0; height: 100%; border-left: dashed 1px #979797;}
+.how_beginers .item .title {font-size: 24px; line-height: 1.2em; color: #2c3db0; margin: 0; padding-bottom: 10px;}
+.how_beginers .item .btnBox {padding: 15px 0 0 0;}
+.how_beginers .item .btnBox a {padding: 5px 15px;}
+@media (max-width: 979px){
+	.how_beginers .slides_list {padding:20px 0;}
+}
+
+.art_main {padding: 60px 0;}
+.art_main .columnStyle {text-align: center;}
+.art_list {padding: 0 10%;}
+.art_list .item {padding:30px 0 0 0;}
+.art_list .item .text{padding:0 0 30px 0;border-bottom:2px solid #d7d6d8;}
+.art_list .item .text h3 a{ font-size:24px; line-height:1.2em; font-weight:500; color: #5a5b64;}
+.art_list .item .text h3 a:hover{color:#2c3db0; text-decoration:none;}
+.art_list .item .text .dd{margin-top:15px;color:#666;font-size:16px; line-height:1.6em;}
+.art_list .item .text .dd a{color:#2c3db0;}
+.art_list .item .text .time{color:#999;margin-top:20px; padding:0 0 0 5px;}
+.art_list .item .text .time img{width:28px;height:28px; border-radius:40px;-webkit-box-shadow:0 0 6px #3b3b3b;-moz-box-shadow: 0 0 6px #3b3b3b;box-shadow: 0 0 6px #3b3b3b;margin-right:10px;}
+.art_list .item .text .time a{color:#2c3db0;}
+@media (max-width: 979px) {
+	.art_list {padding: 0;}
+}
+@media (max-width: 479px) {
+	.art_list .item .text h3 a{ font-size:20px;}
+}

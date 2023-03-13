@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hipdf.com	TRUE	/	FALSE	1999999999	HIPDF_SESSID	f41ab9885189df4d150da953013bcfc8
+www.hipdf.com	TRUE	/	FALSE	1999999999	uco	deleted
+www.hipdf.com	TRUE	/	FALSE	1999999999	ucp	deleted
+www.hipdf.com	TRUE	/	FALSE	1999999999	uca	deleted
+.hipdf.com	TRUE	/	FALSE	1999999999	uco	deleted
+.hipdf.com	TRUE	/	FALSE	1999999999	login	deleted
+.hipdf.com	TRUE	/	FALSE	1999999999	uca	2|1:0|10:1671542500|3:uca|108:eyIwIjp7ImFjMzU2OCI6eyJtYXgiOjIwMDAwLCJmaXJzdCI6dHJ1ZSwiZXhwaXJlZCI6MTU0NTMyMTYwMH19LCJub3ciOjE2NzE1NDI1MDB9|4491f62afe3eb6f9c3e9c5f22f58af17
+.hipdf.com	TRUE	/	FALSE	1999999999	ucp	2|1:0|10:1671542500|3:ucp|228:eyJyZWdpc3Rlcl90aW1lIjoxNjcxNTQyNTAwLCJ3c19pZCI6MCwiYXBwZWFyX3RpbWUiOjE2NzE1NDI1MDAsImV4cGlyZV90aW1lIjowLCJwZXJtaXNzaW9uIjoxLCJpc192ZXJ0aWZ5IjowLCJ1c2VyX2lkIjowLCJzZXNzaW9uX2lkIjoiZWI2Mjc0MWRhNGQ0MDM4YzQyNjhjNDQ3N2JiODRkOWMifQ==|de3d8ad435fa57a7d596494f3c4efb15
+www.hipdf.com	TRUE	/	FALSE	1999999999	SameSite	None
+

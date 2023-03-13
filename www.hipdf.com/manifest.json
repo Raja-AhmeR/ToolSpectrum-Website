@@ -1,0 +1,62 @@
+{
+    "background_color": "#ffffff",
+    "description": "Wondershare HiPDF is an all-in-one online PDF editor from which you can get powerful features to edit, review, protect, sign and convert PDFs. It's a robust and useful online PDF editor & converter on Windows, Mac and mobile systems. It greatly helps to boost document productivity!",
+    "dir": "ltr",
+    "display": "fullscreen",
+    "name": "HiPDF",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "HiPDF",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/static/images/hipdf_logo_36.png",
+        "type": "image/png",
+        "sizes": "36x36",
+        "purpose": "any"
+      },
+      {
+        "src": "/static/images/hipdf_logo_48.png",
+        "type": "image/png",
+        "sizes": "48x48",
+        "purpose": "any"
+      },
+      {
+        "src": "/static/images/hipdf_logo_72.png",
+        "type": "image/png",
+        "sizes": "72x72",
+        "purpose": "any"
+      },
+      {
+        "src": "/static/images/hipdf_logo_96.png",
+        "type": "image/png",
+        "sizes": "96x96",
+        "purpose": "any"
+      },
+      {
+        "src": "/static/images/hipdf_logo_144.png",
+        "type": "image/png",
+        "sizes": "144x144",
+        "purpose": "any"
+      },
+      {
+        "src": "/static/images/hipdf_logo_192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any"
+      },
+      {
+        "src": "/static/images/hipdf_logo_512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any"
+      },
+      {
+        "src": "/static/images/pwa-logo-maskable.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      }
+    ]
+  }
